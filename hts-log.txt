@@ -1,0 +1,161 @@
+HTTrack3.51-0 launched on Sat, 07 Nov 2026 09:58:36 at heshamelquerm.com +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" heshamelquerm.com -O1 "C:\My Web Sites\heshamelquerm.com Website" +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:58:37	Warning: 	Moved Permanently for heshamelquerm.com/robots.txt
+09:58:37	Warning: 	Warning moved treated for heshamelquerm.com/robots.txt (real one is https://heshamelquerm.com/robots.txt)
+09:58:37	Warning: 	Moved Permanently for heshamelquerm.com/
+09:58:37	Warning: 	Redirect to a same-file alias, fetching real content: heshamelquerm.com/ -> https://heshamelquerm.com/
+09:58:37	Warning: 	Warning moved treated for heshamelquerm.com/ (real one is https://heshamelquerm.com/)
+10:00:18	Error: 	"Forbidden" (403) at link https://heshamelquerm.com/xmlrpc.php?rsd (from https://heshamelquerm.com/)
+10:02:24	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/heshamelquerm.com Website/heshamelquerm.com/wp-content/plugins/yoo-slider/images/general/star_1.svg
+10:02:24	Error: 	"Not Found" (404) at link https://heshamelquerm.com/wp-content/uploads/img/bg.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1794038318)
+10:02:34	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=832
+10:02:34	Warning: 	File has moved from https://heshamelquerm.com/?p=832 to https://heshamelquerm.com/about/
+10:02:34	Error: 	"Forbidden" (403) at link https://s3-us-west-2.amazonaws.com/s.cdpn.io/154/imagesloaded.pkgd.min.js (from https://heshamelquerm.com/about/)
+10:02:34	Error: 	"Forbidden" (403) at link https://s3-us-west-2.amazonaws.com/s.cdpn.io/154/hammer.min.js (from https://heshamelquerm.com/about/)
+10:02:34	Error: 	"Forbidden" (403) at link https://s3-us-west-2.amazonaws.com/s.cdpn.io/154/sequence.min.js (from https://heshamelquerm.com/about/)
+10:02:40	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=940
+10:02:40	Warning: 	File has moved from https://heshamelquerm.com/?p=940 to https://heshamelquerm.com/resume/
+10:02:49	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=12
+10:02:49	Warning: 	File has moved from https://heshamelquerm.com/?p=12 to https://heshamelquerm.com/portfolio/
+10:12:16	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=16
+10:12:16	Warning: 	File has moved from https://heshamelquerm.com/?p=16 to https://heshamelquerm.com/contact/
+10:12:23	Error: 	"Not Found" (404) at link https://heshamelquerm.com/giItT1WQy@!-/ (from https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.9/lottie.min.js)
+10:12:23	Error: 	"Not Found" (404) at link https://www.google.com/recaptcha/api2/ (from https://www.google.com/recaptcha/api.js?render=6LeJJbMiAAAAADN2_zwmg5muh8OWhL32_N6rr-p1&ver=3.0)
+10:12:28	Error: 	"Not Found" (404) at link https://heshamelquerm.com/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038318)
+10:12:28	Error: 	"Not Found" (404) at link https://heshamelquerm.com/-negative.svg (from https://heshamelquerm.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.3)
+10:12:33	Error: 	"Not Found" (404) at link https://heshamelquerm.com/resume/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038340)
+10:12:36	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=3055
+10:12:36	Warning: 	File has moved from https://heshamelquerm.com/?p=3055 to https://heshamelquerm.com/figma-wireframes/
+10:12:47	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4101
+10:12:47	Warning: 	File has moved from https://heshamelquerm.com/?p=4101 to https://heshamelquerm.com/elgris-social-media-designs/
+10:12:56	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4634
+10:12:56	Warning: 	File has moved from https://heshamelquerm.com/?p=4634 to https://heshamelquerm.com/all-elgris-banner-designs/
+10:13:03	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4564
+10:13:03	Warning: 	File has moved from https://heshamelquerm.com/?p=4564 to https://heshamelquerm.com/elgris-elwa-embedded-webapp/
+10:13:06	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4364
+10:13:06	Warning: 	File has moved from https://heshamelquerm.com/?p=4364 to https://heshamelquerm.com/investors-webapp/
+10:13:15	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4679
+10:13:15	Warning: 	File has moved from https://heshamelquerm.com/?p=4679 to https://heshamelquerm.com/blackstone-eit-case-study/
+10:13:30	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4327
+10:13:30	Warning: 	File has moved from https://heshamelquerm.com/?p=4327 to https://heshamelquerm.com/abareeqi-coffee-shop-oman-logo/
+10:13:39	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4219
+10:13:39	Warning: 	File has moved from https://heshamelquerm.com/?p=4219 to https://heshamelquerm.com/investors-app-preloader-animation/
+10:13:39	Error: 	"Not Found" (404) at link https://heshamelquerm.com/investors-app-preloader-animation/transparent (from https://heshamelquerm.com/investors-app-preloader-animation/)
+10:13:49	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4688
+10:13:49	Warning: 	File has moved from https://heshamelquerm.com/?p=4688 to https://heshamelquerm.com/jci-case-study/
+10:13:58	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4479
+10:13:58	Warning: 	File has moved from https://heshamelquerm.com/?p=4479 to https://heshamelquerm.com/elgris-de-website-header-video/
+10:14:07	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4026
+10:14:07	Warning: 	File has moved from https://heshamelquerm.com/?p=4026 to https://heshamelquerm.com/the-diy-life-mascot-character-animated-logo/
+10:14:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/the-diy-life-mascot-character-animated-logo/transparent (from https://heshamelquerm.com/the-diy-life-mascot-character-animated-logo/)
+10:14:17	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4024
+10:14:17	Warning: 	File has moved from https://heshamelquerm.com/?p=4024 to https://heshamelquerm.com/gpt-arabia-website/
+10:14:27	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4304
+10:14:27	Warning: 	File has moved from https://heshamelquerm.com/?p=4304 to https://heshamelquerm.com/elgris-ksem-social-media-reel/
+10:14:36	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=4022
+10:14:36	Warning: 	File has moved from https://heshamelquerm.com/?p=4022 to https://heshamelquerm.com/smartzee-cloud-webapp/
+10:14:45	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=3736
+10:14:45	Warning: 	File has moved from https://heshamelquerm.com/?p=3736 to https://heshamelquerm.com/kz-voiceover-logo-anim/
+10:14:45	Error: 	"Not Found" (404) at link https://heshamelquerm.com/kz-voiceover-logo-anim/transparent (from https://heshamelquerm.com/kz-voiceover-logo-anim/)
+10:14:55	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=3448
+10:14:55	Warning: 	File has moved from https://heshamelquerm.com/?p=3448 to https://heshamelquerm.com/enmotech-ems-webapp/
+10:15:07	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=3256
+10:15:07	Warning: 	File has moved from https://heshamelquerm.com/?p=3256 to https://heshamelquerm.com/optimeas-webapp-redesign/
+10:15:17	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=3084
+10:15:17	Warning: 	File has moved from https://heshamelquerm.com/?p=3084 to https://heshamelquerm.com/pizza-cone-website/
+10:15:28	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=3079
+10:15:28	Warning: 	File has moved from https://heshamelquerm.com/?p=3079 to https://heshamelquerm.com/tarek-roshdy-website/
+10:15:38	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=2911
+10:15:38	Warning: 	File has moved from https://heshamelquerm.com/?p=2911 to https://heshamelquerm.com/sehasky-campaign-motion-graphics-ad/
+10:15:49	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=2929
+10:15:49	Warning: 	File has moved from https://heshamelquerm.com/?p=2929 to https://heshamelquerm.com/sehasky-digital-campaign-graphic-designs/
+10:15:58	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=2877
+10:15:58	Warning: 	File has moved from https://heshamelquerm.com/?p=2877 to https://heshamelquerm.com/sehasky-logo-animation-project/
+10:16:08	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=2807
+10:16:08	Warning: 	File has moved from https://heshamelquerm.com/?p=2807 to https://heshamelquerm.com/sehasky-landing-page/
+10:16:18	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=3631
+10:16:18	Warning: 	File has moved from https://heshamelquerm.com/?p=3631 to https://heshamelquerm.com/microdoers-landing-page/
+10:16:28	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1551
+10:16:28	Warning: 	File has moved from https://heshamelquerm.com/?p=1551 to https://heshamelquerm.com/cosmo-gate-website/
+10:16:37	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=2649
+10:16:37	Warning: 	File has moved from https://heshamelquerm.com/?p=2649 to https://heshamelquerm.com/my-logo-svg-animation-sub-project/
+10:16:43	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1313
+10:16:43	Warning: 	File has moved from https://heshamelquerm.com/?p=1313 to https://heshamelquerm.com/la-poire-imitation-website/
+10:16:46	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=2488
+10:16:46	Warning: 	File has moved from https://heshamelquerm.com/?p=2488 to https://heshamelquerm.com/pharmacy-motion-graphics-ad/
+10:16:55	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1315
+10:16:55	Warning: 	File has moved from https://heshamelquerm.com/?p=1315 to https://heshamelquerm.com/makkah-academy-promo-video/
+10:17:05	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1246
+10:17:05	Warning: 	File has moved from https://heshamelquerm.com/?p=1246 to https://heshamelquerm.com/orientalism/
+10:17:14	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1299
+10:17:14	Warning: 	File has moved from https://heshamelquerm.com/?p=1299 to https://heshamelquerm.com/dar-al-buraq-logo/
+10:17:24	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1301
+10:17:24	Warning: 	File has moved from https://heshamelquerm.com/?p=1301 to https://heshamelquerm.com/butterfly-logo-stationary/
+10:17:30	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1303
+10:17:30	Warning: 	File has moved from https://heshamelquerm.com/?p=1303 to https://heshamelquerm.com/alex-gates-diary/
+10:17:33	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1305
+10:17:33	Warning: 	File has moved from https://heshamelquerm.com/?p=1305 to https://heshamelquerm.com/dar-al-bukhary/
+10:17:42	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1307
+10:17:42	Warning: 	File has moved from https://heshamelquerm.com/?p=1307 to https://heshamelquerm.com/dar-al-buraq-mini-books/
+10:17:51	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=2435
+10:17:51	Warning: 	File has moved from https://heshamelquerm.com/?p=2435 to https://heshamelquerm.com/disney-pixar-logo-localization/
+10:18:01	Warning: 	Moved Permanently for https://heshamelquerm.com/?p=1309
+10:18:01	Warning: 	File has moved from https://heshamelquerm.com/?p=1309 to https://heshamelquerm.com/my-wedding-logo/
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?9e1efm (from https://heshamelquerm.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.9.6)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?9e1efm (from https://heshamelquerm.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.9.6)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?9e1efm (from https://heshamelquerm.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.9.6)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.svg?9e1efm (from https://heshamelquerm.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.9.6)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/portfolio/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038339)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/contact/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038341)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/figma-wireframes/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038458)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/figma-wireframes/giItT1WQy@!-/ (from https://heshamelquerm.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min.js?ver=4.9.6)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/elgris-social-media-designs/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038460)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/all-elgris-banner-designs/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038462)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/investors-webapp/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038465)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/blackstone-eit-case-study/giItT1WQy@!-/ (from https://unpkg.com/@lottiefiles/lottie-player@2.0.12/dist/lottie-player.js)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/blackstone-eit-case-study/dist/lottie-player.js (from https://unpkg.com/@lottiefiles/lottie-player@2.0.12/dist/lottie-player.js)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/blackstone-eit-case-study/dist/lottie-player.esm.js (from https://unpkg.com/@lottiefiles/lottie-player@2.0.12/dist/lottie-player.js)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/blackstone-eit-case-study/dist/lottie-player.d.ts (from https://unpkg.com/@lottiefiles/lottie-player@2.0.12/dist/lottie-player.js)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/blackstone-eit-case-study/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038466)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/abareeqi-coffee-shop-oman-logo/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038467)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/investors-app-preloader-animation/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038468)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/jci-case-study/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038470)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/elgris-de-website-header-video/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038471)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/the-diy-life-mascot-character-animated-logo/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038473)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/gpt-arabia-website/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038475)
+10:18:07	Warning: 	Moved Permanently for https://heshamelquerm.com/elgris-ksem-social-media-reel/chrome-extension://
+10:18:07	Warning: 	Redirect to a same-file alias, fetching real content: https://heshamelquerm.com/elgris-ksem-social-media-reel/chrome-extension:// -> https://heshamelquerm.com/elgris-ksem-social-media-reel/chrome-extension:/
+10:18:07	Warning: 	Warning moved treated for https://heshamelquerm.com/elgris-ksem-social-media-reel/chrome-extension:// (real one is https://heshamelquerm.com/elgris-ksem-social-media-reel/chrome-extension:/)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/elgris-ksem-social-media-reel/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038478)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/smartzee-cloud-webapp/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038481)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/kz-voiceover-logo-anim/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038485)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/enmotech-ems-webapp/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038486)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/optimeas-webapp-redesign/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038488)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/pizza-cone-website/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038490)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/tarek-roshdy-website/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038492)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/sehasky-campaign-motion-graphics-ad/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038493)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/sehasky-digital-campaign-graphic-designs/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038494)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/sehasky-logo-animation-project/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038495)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/sehasky-landing-page/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038497)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/microdoers-landing-page/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038498)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/cosmo-gate-website/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038499)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/my-logo-svg-animation-sub-project/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038501)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/pharmacy-motion-graphics-ad/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038503)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/makkah-academy-promo-video/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038506)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/orientalism/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038508)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/dar-al-buraq-logo/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038509)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/butterfly-logo-stationary/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038510)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/dar-al-bukhary/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038512)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/dar-al-buraq-mini-books/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038513)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/disney-pixar-logo-localization/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038514)
+10:18:07	Error: 	"Not Found" (404) at link https://heshamelquerm.com/my-wedding-logo/default.jpg (from https://heshamelquerm.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1794038515)
+10:18:08	Error: 	"Not Found" (404) at link https://heshamelquerm.com/elgris-ksem-social-media-reel/chrome-extension:/ (from https://www.instagram.com/embed.js)
+
+HTTrack Website Copier/3.51-0 mirror complete in 19 minutes 32 seconds : 1450 links scanned, 1344 files written (316310269 bytes overall) [252499302 bytes received at 215443 bytes/sec], 91305077 bytes transferred using HTTP compression in 376 files, ratio 18%, 8.4 requests per connection
+(59 errors, 91 warnings, 0 messages)
