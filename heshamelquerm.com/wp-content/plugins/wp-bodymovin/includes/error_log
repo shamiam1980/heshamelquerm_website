@@ -1,0 +1,20 @@
+[13-Sep-2024 15:11:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php on line 57
+[24-Oct-2024 18:27:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php on line 57
+[04-Jan-2025 16:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php on line 57
+[06-Mar-2025 15:26:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php on line 57
+[09-Jan-2026 16:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/heshamel/public_html/wp-content/plugins/wp-bodymovin/includes/metaboxes.php on line 57
